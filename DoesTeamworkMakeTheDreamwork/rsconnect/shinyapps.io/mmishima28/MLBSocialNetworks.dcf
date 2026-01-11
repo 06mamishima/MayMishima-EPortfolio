@@ -1,0 +1,13 @@
+name: MLBSocialNetworks
+title: MLBSocialNetworks
+username: mmishima28
+account: mmishima28
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16311017
+bundleId: 11321477
+url: https://mmishima28.shinyapps.io/MLBSocialNetworks/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|final-project-assignment.pdf|final-project-proposal.qmd|final-project-report-template.pdf|finalproject_integrity_page.qmd|finalproject.pdf|finalproject.qmd|MMishima_finalproposal.pdf|data_files
